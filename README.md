@@ -1,5 +1,5 @@
 Hi there!👋\
-I'm a 14 year old who loves coding, especially in C++!✅\
+I'm a 14-year-old who loves coding, especially in C++!✅\
 If you for some reason need to contact me, you can do so by dropping a mail at tadejs@outlook.com.📝\
 I'm from central Europe, Slovenia to be precise.📍\
 My pronouns are he/him.🫡

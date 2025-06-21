@@ -1,5 +1,5 @@
 <h1>Hi everyone!</h1>
-14-year-old from Slovenia who loves coding. 🇸🇮 <br>
+I'm a 14-year-old who wants to be a programmer in the future👨‍🦰.  <br>
 I have been coding since 2018.📅<br>
 I live in Slovenia, Europe. 🌎📍<br>
 I like disassembling all kinds of devices and programming.🔧✅<br>

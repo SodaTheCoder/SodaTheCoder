@@ -27,7 +27,7 @@ I like disassembling all kinds of devices and programming.🔧✅<br>
 </p>
 <p>I most often code in C++ and use Visual Studio 2022 as my IDE.</p>
 
-<h1>>My stats📈</h1>
+<h1>My stats📈</h1>
 
 [![SodaTheCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodathecoder)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sodathecoder)](https://github.com/sodathecoder/github-readme-stats)

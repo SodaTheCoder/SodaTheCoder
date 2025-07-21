@@ -2,7 +2,7 @@
 I'm a 14-year-old who wants to be a programmer in the future👨‍🦰.  <br>
 I have been coding since 2018.📅<br>
 I live in Slovenia, Europe. 🌎📍<br>
-I like disassembling all kinds of devices and programming.🔧✅<br>
+I like disassembling all kinds of devices and programming.🔧✅<br
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
